@@ -209,6 +209,8 @@ nav .search {
     opacity: .8;
 }
 
+#reviews .avatar
+
 #portfolio a.port,#reviews a.port {
     margin-top: 25px;
     float: left;
@@ -254,8 +256,8 @@ nav .search {
 }
 
 
-.swiper-slide .avatar img {
-    border-radius: 50%;
+.swiper-slide  {
+    border-radius: 20px;
     width: 500px;
     height: 150px;
 }
